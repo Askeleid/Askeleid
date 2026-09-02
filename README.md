@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Askeleid/Askeleid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="cyberpunk.gif" width="100%" alt="Cyberpunk Animated Banner">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center" style="color: #ff8c00;">Core Directives:</h3>
+<p align="center">
+  <!-- Added &theme=dark so the icons fit the black background -->
+  <img src="https://skillicons.dev/icons?i=py,pytorch,java,cpp,c,linux,git,django,unity,postgresql,latex&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Askeleid?ext=activity&theme=tokyonight" alt="LeetCode Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Askeleid&background=000000&border=ff8c00&stroke=ff8c00&ring=ff8c00&fire=ff8c00&currStreakNum=ffffff&currStreakLabel=ff8c00&sideNums=ffffff&sideLabels=ffffff&dates=cccccc&v=2" alt="CLU GitHub Streak" />
+</p>
+
+<!-- Changed the color from blue to ff8c00 (neon orange) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Askeleid&color=ff8c00" alt="Visitor Count" />
+</p>
